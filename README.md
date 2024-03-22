@@ -1,0 +1,2 @@
+# SecondoEsercizioJS
+Esercitazione JS
